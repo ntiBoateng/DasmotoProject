@@ -1,0 +1,33 @@
+.title {
+    background-image: url("./photos/img1.webp");
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+#brush {
+    font-family: Helvetica;
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+    background-color: mediumspringgreen
+    ;
+}
+
+.frames{
+    font-family: Helvetica;
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+    background-color: lightcoral;
+}
+
+.paint{
+    font-family: Helvetica;
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+    background-color: skyblue;
+}
